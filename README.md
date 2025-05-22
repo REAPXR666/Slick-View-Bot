@@ -1,6 +1,9 @@
 # Slick-View-Bot
 A advanced, fast view bot
 
+EXAMPLE:
+https://a.slicksmm.com/profile/reapxr
+
 SETUP:
 Go to: https://a.slicksmm.com/
 
